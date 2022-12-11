@@ -1,12 +1,12 @@
-# 1)Name: Ravin Shakhmuradov
+# 1) Name: Ravin Shakhmuradov
 
-## 2)Contact: Telegram: @shakhravin
+## 2) Contact: Telegram: @shakhravin
 
-_3)About me: My goal is to complete the course and learn new things. I don't have work experience yet, I'm just learning for now._
+_3) About me: My goal is to complete the course and learn new things. I don't have work experience yet, I'm just learning for now._
 
-_4)Skills: JavaScript, Html, CSS_
+_4) Skills: JavaScript, Html, CSS_
 
-_5)Code example:_
+_5) Code example:_
 
 ```javascript
 function greet(name) {
